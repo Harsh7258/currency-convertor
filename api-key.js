@@ -1,1 +1,2 @@
-let API_KEY = "a7c2c154475b712236d820fa";
+let API_KEY = "ypur API";
+// to generate api key https://www.exchangerate-api.com/
